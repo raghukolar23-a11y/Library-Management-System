@@ -1,0 +1,72 @@
+# 📋 Requirements for Library Management System
+
+## 🔹 Functional Requirements
+
+1. The system should allow adding new books.
+2. The system should store book details:
+
+   * Book ID
+   * Title
+   * Author
+   * Availability Status
+3. The system should allow member registration.
+4. The system should support:
+
+   * Book Issue
+   * Book Return
+5. The system should allow searching books by:
+
+   * Title
+   * Author
+6. The system should display all available books.
+7. The system should prevent issuing already issued books.
+
+---
+
+# 💻 Software Requirements
+
+* Programming Language: **C++**
+* IDE/Compiler:
+
+  * Code::Blocks / Dev C++ / VS Code
+  * GCC Compiler
+* Operating System:
+
+  * Windows / Linux / macOS
+
+---
+
+# 🖥 Hardware Requirements
+
+* Processor: Intel i3 or above
+* RAM: Minimum 2 GB
+* Storage: 100 MB free space
+* Keyboard & Monitor
+
+---
+
+# 📚 Tools & Technologies Used
+
+* Object-Oriented Programming (OOP)
+* Classes and Objects
+* Vectors/Arrays
+* Functions
+* Conditional Statements & Loops
+
+---
+
+# 🎯 Project Objective
+
+To develop a Library Management System that efficiently manages books, members, borrowing records, issue/return operations, and search functionality using structured or object-oriented programming concepts.
+
+---
+
+# ✅ Expected Outcome
+
+A functional application that:
+
+* Adds and manages books
+* Registers members
+* Handles issue and return operations
+* Searches books by title or author
+* Streamlines library operations efficiently
